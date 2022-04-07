@@ -7,7 +7,7 @@ import os
 import sys
 import argparse
 
-def myfunction(thing: string, *args, **kwargs) -> int:
+def myfunction(thing: str, *args, **kwargs) -> int:
     '''This is a function that does something.'''
     pass
 
